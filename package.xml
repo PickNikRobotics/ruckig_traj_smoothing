@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ruckig_traj_smoothing</name>
+  <version>0.0.0</version>
+  <description>Jerk-limited trajectory smoothing</description>
+  <author email="zelenak@picknik.ai">Andy Zelenka</author>
+  <author>Wyatt Rees</author>
+  <author>Jack Center</author>
+
+  <license>BSD</license>
+  <url type="repository">https://github.com/PickNikRobotics/ruckig_traj_smoothing</url>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>ruckig</depend>
+
+</package>
